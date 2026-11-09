@@ -1,0 +1,6 @@
+{
+  "name": "MyDiary - Jurnal Pribadi, Refleksi Emosi & Pemaknaan AI",
+  "description": "Aplikasi penulisan diary harian responsif mobile & desktop dengan visualisasi 3D scatter plot emosi dan ide, afirmasi pemaknaan AI Gemini, kalender emoji suasana hati, rencana hari esok, serta integrasi Google Drive, Calendar, dan Tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
